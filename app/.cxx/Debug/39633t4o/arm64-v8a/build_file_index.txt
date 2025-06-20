@@ -1,0 +1,1 @@
+/Users/daniele.bartorilla@igenius.ai/Dev/daniele-whisper/app/src/main/cpp/CMakeLists.txt

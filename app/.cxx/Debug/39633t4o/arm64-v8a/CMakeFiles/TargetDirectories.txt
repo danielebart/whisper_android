@@ -1,0 +1,3 @@
+/Users/daniele.bartorilla@igenius.ai/Dev/daniele-whisper/app/.cxx/Debug/39633t4o/arm64-v8a/CMakeFiles/audioEngine.dir
+/Users/daniele.bartorilla@igenius.ai/Dev/daniele-whisper/app/.cxx/Debug/39633t4o/arm64-v8a/CMakeFiles/edit_cache.dir
+/Users/daniele.bartorilla@igenius.ai/Dev/daniele-whisper/app/.cxx/Debug/39633t4o/arm64-v8a/CMakeFiles/rebuild_cache.dir

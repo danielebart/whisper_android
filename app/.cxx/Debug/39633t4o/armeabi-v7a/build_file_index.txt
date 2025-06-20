@@ -1,0 +1,1 @@
+/Users/daniele.bartorilla@igenius.ai/Dev/whisper_android/whisper_native/app/src/main/cpp/CMakeLists.txt
